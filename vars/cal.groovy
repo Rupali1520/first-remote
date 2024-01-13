@@ -1,6 +1,6 @@
 def add(x,y){
-  echo ${x+y}
+  echo "sum ${x+y}"
 }
 def mul(x,y){
-  echo ${x*y}
+  echo "multiple ${x*y}"
 }
